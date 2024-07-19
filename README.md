@@ -3,12 +3,12 @@
 MERN stack trainee @sristhi
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
 - 🔭 Here's my [resume](file:///C:/Users/frexi/Downloads/FREXIN%20resume%20(1).pdf)                                                 
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning JS frameworks
 - 👯 I’m looking to collaborate on CYBERSECURITY
 - 🤔 I’m looking for help with Placements 
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/frexinj/)
+<br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/frx.in) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/frexinj/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Malayalam.
 
